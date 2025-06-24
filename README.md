@@ -47,7 +47,6 @@ This framework is designed for easy adaptation to other ML tasks or LLM output b
 ## 🏁 Get Started
 
 ### 1. Clone the repo & enter directory
-```bash
 git clone https://github.com/VishalsWorkspace/model_eval_framework.git
 cd model_eval_framework
 
@@ -85,9 +84,7 @@ A web page to paste a news article and get a Real or Fake prediction
 An interactive line chart showing historical metrics from past runs
 
 🔍 Project Structure
-graphql
-Copy
-Edit
+
 model_eval_framework/
 ├── core/
 │   ├── trainer.py        # Training logic
